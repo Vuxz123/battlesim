@@ -1,4 +1,4 @@
 package com.ethnicthv.entity.properties;
 
-public class EntityProperties {
+public class EntityProperties extends Properties {
 }
